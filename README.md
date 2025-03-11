@@ -4,7 +4,7 @@ A full-stack task manager application built with Vite, React, Express, and Mongo
 
 ## Live Deployed Project
 
-- **Complete Project URL:** [https://mytaskmanager.vercel.app](https://mytaskmanager.vercel.app)
+- **Complete Project URL:** [https://task-management-s8sn.vercel.app/](https://task-management-s8sn.vercel.app/)
 
 ## Overview
 
@@ -13,3 +13,4 @@ This project allows you to:
 - Add new tasks.
 - Delete tasks.
 - Toggle task status between "Pending" and "Completed".
+https://task-management-s8sn.vercel.app/
